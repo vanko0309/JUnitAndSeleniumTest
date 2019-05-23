@@ -7,15 +7,20 @@
     <artifactId>cinema-booking-system</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>first-project</groupId>
-  <artifactId>first-project</artifactId>
+  <groupId>third-project</groupId>
+  <artifactId>third-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
-  <name>first-project</name>
+  <packaging>jar</packaging>
+  <name>third-project</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <dependencies>
+    <dependency>
+    	<groupId>second-project</groupId>
+    	<artifactId>second-project</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 </project>
