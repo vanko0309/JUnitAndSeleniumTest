@@ -109,5 +109,6 @@
   </build>
   <modules>
     <module>first-project</module>
+    <module>second-project</module>
   </modules>
 </project>
