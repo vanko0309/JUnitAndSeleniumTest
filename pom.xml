@@ -109,7 +109,6 @@
   </build>
   <modules>
     <module>first-project</module>
-    <module>second-project</module>
     <module>third-project</module>
   </modules>
 </project>
