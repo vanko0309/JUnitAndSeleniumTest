@@ -1,10 +1,9 @@
 package data.container;
 
+import models.Reservation;
 import org.junit.Assert;
 import org.junit.Test;
 import org.mockito.Mockito;
-
-import models.Reservation;
 
 public class DatabaseTest {
 	
